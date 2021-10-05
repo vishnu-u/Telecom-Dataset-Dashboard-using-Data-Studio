@@ -7,3 +7,5 @@ Steps to generate dashboard on Data Studio : <br />
   <li>Create a Report in Data Studio and use the connector to connect to your source.</li>
   <li>Use the connected data to generate Visualizations of your chocie.</li>
   </ul>
+  Link to Data Studio Report : https://datastudio.google.com/s/il0m4ZXfRjY
+  Link to Combined Dataset : https://docs.google.com/spreadsheets/d/1_xXVwZ2Uv3w7uvM_0XBAFj5r1ojTrWY5AVyu39thIqY/edit?usp=sharing
